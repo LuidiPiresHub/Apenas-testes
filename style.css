@@ -1,0 +1,48 @@
+#Nome{
+    font-family: 'Oleo Script Swash Caps', cursive, sans-serif;
+}
+#Cor-da-description{
+    font-family: 'Montserrat', sans-serif;
+}
+.Description{
+    position: absolute;
+    top: 20%;
+    left: 350px;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-color: rgb(49, 49, 49);
+}
+p,h1,li,strong{
+    color: white;
+}
+.links{
+    color: blueviolet;
+    font-size: 20px;
+}
+#hb1{
+    font-size: 30px;
+ }
+#hb2{
+    font-size: 27px;
+  }
+#hb3{
+    font-size: 25px;
+}
+#Minha-foto{
+    float: left;
+    height: 280px;
+    padding: 10px;
+    width: auto;
+    background-color: rgb(34, 16, 197);
+    border-radius: 10%;
+}
+#Nome{
+    text-align: center;
+}
+.tamanho-da-caixa{
+    height: 300px;
+    position: relative;
+}
